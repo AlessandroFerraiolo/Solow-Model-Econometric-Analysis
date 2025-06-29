@@ -79,8 +79,6 @@ library(lmtest)
 library(stargazer)
 ```
 
-*Source:*
-
 ### Option 1: Load the Workspace
 
 1.  Open R or RStudio.
