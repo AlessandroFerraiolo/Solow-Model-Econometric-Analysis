@@ -1,5 +1,3 @@
-Of course, here is the README file rewritten in Markdown.
-
 # Econometric Analysis of the Solow-Swan Growth Model
 
 This repository contains an econometric project that tests the empirical validity of the Solow-Swan growth model. The analysis uses panel data from the World Bank to examine the impact of savings rates and population growth on GDP per capita. The project further identifies limitations of the base model, particularly concerning oil-producing nations, and proposes an augmented model that incorporates human capital.
